@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: DYNamical systems, Analysis, and Machine learning for self-Organization of matter
 
 profile:
   align: right
