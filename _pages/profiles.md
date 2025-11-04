@@ -14,15 +14,15 @@ profiles:
     content: malice.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Lab. Hubert Curien</p>
+      <p>Saint-Etienne, FRANCE</p>
+      <p><a href="https://labhc-malice.github.io/">website</a></p>
   - align: left
     image: iit.png
     content: csml.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Istituto Italiano di Tecnologia</p>
+      <p>Genova, ITALY</p>
+      <p><a href="https://csml.iit.it/">website</a></p>
 ---
