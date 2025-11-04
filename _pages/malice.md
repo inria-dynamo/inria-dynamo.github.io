@@ -1,4 +1,4 @@
-This is the MALICE team
+The Inria MALICE team, whose members have a strong expertise in statistical learning, applied mathematics, statistics and optimization, develops algorithmic and theoretical research focused on integrating physical knowledge into machine learning models.
 
 
 
