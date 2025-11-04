@@ -1,5 +1,4 @@
-Blabla CSML
-
+The <i>Computational Statistics and Machine Learning</i> (CSML) group conducts research at the intersection of machine learning theory and algorithm design, grounded in mathematics and statistics, with particular emphasis on empirical processes and numerical optimization.
 
 
 <ul>
