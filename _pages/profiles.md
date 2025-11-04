@@ -14,16 +14,16 @@ profiles:
     content: malice.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Lab. Hubert Curien</p>
-      <p>Saint-Etienne, FRANCE</p>
+      <p>Lab. Hubert Curien</p><br>
+      <p>Saint-Etienne, FRANCE</p><br>
       <p><a href="https://labhc-malice.github.io/">website</a></p>
   - align: left
     image: csml.jpg
     content: csml.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>IIT</p>
-      <p>Genova, ITALY</p>
+      <p>Istituto Italiano di Tecnologia</p><br>
+      <p>Genova, ITALY</p><br>
       <p><a href="https://csml.iit.it/">website</a></p>
       
 ---
