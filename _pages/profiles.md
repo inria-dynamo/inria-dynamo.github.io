@@ -18,7 +18,7 @@ profiles:
       <p>Saint-Etienne, FRANCE</p>
       <p><a href="https://labhc-malice.github.io/">website</a></p>
   - align: left
-    image: iit.png
+    image: csml.jpg
     content: csml.md
     image_circular: false # crops the image to make it circular
     more_info: >
