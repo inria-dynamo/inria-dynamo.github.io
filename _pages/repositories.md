@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: List of Github repositories related to the project
+description: List of GitHub repositories related to the project
 nav: true
 nav_order: 4
 ---
