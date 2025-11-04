@@ -22,7 +22,8 @@ profiles:
     content: csml.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Istituto Italiano di Tecnologia</p>
+      <p>IIT</p>
       <p>Genova, ITALY</p>
       <p><a href="https://csml.iit.it/">website</a></p>
+      
 ---
