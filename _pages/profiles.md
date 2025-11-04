@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: List of participants involved in the Associate Team
 nav: true
 nav_order: 7
 
