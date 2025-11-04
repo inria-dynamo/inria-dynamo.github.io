@@ -2,6 +2,7 @@ The <i>Computational Statistics and Machine Learning</i> (CSML) group conducts r
 
 
 <ul>
+   <li>
     <a href="https://scholar.google.com/citations?user=66gV7SAAAAAJ&amp;hl=en">Vladimir Kostic</a>, Researcher (IIT, Italy), Associate Professor (University of Novi Sad, Serbia).<br>
     <em>numerical computing, statistical learning theory, Markov transfer operators</em>
   </li>
