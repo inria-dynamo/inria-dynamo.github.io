@@ -1,8 +1,9 @@
 github_users:
-  - jordanFrecon
+  - CSML-IIT-UCL
 
 repo_description_lines_max: 2
 
 github_repos:
   - armezidi/bregmano
   - ben2022lo/COLoKe
+  - Machine-Learning-Dynamical-Systems/kooplearn
