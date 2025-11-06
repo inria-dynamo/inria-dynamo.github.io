@@ -12,11 +12,11 @@ The Inria MALICE team, whose members have a strong expertise in statistical lear
     <em>statistical learning theory, physics-informed machine learning</em>
   </li>
   <li>
-    <a href="https://jordan-patracone.com/">Jordan Patracone</a>, Associate Professor (Inria, UJM, France).<br>
+    <a href="https://jordan-patracone.com/">Jordan Patracone</a>, Associate Professor (Inria, UJM, France), <b>Head of DYNAMO</b>.<br>
     <em>numerical optimization, physics-informed machine learning</em>
   </li>
   <li>
-    <a href="https://perso.univ-st-etienne.fr/sebbanma/">Marc Sebban</a>, Professor (Inria, UJM, France), Head of MALICE team.<br>
+    <a href="https://perso.univ-st-etienne.fr/sebbanma/">Marc Sebban</a>, Professor (Inria, UJM, France), Head of MALICE.<br>
     <em>statistical learning theory, physics-informed machine learning</em>
   </li>
 </ul>
