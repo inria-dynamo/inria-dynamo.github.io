@@ -21,3 +21,5 @@ The Inria MALICE team, whose members have a strong expertise in statistical lear
   </li>
 </ul>
 
+
+<b>Non-Permanent Staff:</b> <a href="https://scholar.google.fr/citations?hl=fr&user=uk9HRdoAAAAJ">Ben Gao</a> (PhD Student), <a href="https://scholar.google.fr/citations?user=bdp0viAAAAAJ&hl=fr&oi=ao">Abdel-Rahim Mezidi</a> (PhD Student)
