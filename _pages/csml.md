@@ -16,3 +16,5 @@ The <i>Computational Statistics and Machine Learning</i> (CSML) group conducts r
   </li>
 </ul>
 
+
+<b>Non-Permanent Staff:</b> <a href="https://scholar.google.com/citations?user=9Tlyx1IAAAAJ&hl=it">Riccardo Grazzi</a> (Postdoc), <a href="https://scholar.google.com/citations?user=mi-UCzUAAAAJ&hl=en">Erfan Mirzaei</a> (PhD Student), <a href="https://scholar.google.com/citations?user=bXlwJucAAAAJ&hl=it&oi=sra">Pietro Novelli</a> (Postdoc).
