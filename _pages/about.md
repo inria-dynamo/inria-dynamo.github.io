@@ -29,6 +29,6 @@ latest_posts:
 
 DYNAMO is an Inria Associate Team jointly established between the MALICE Inria project-team at Université Jean Monnet (Saint-Étienne, France) and the Computational Statistics and Machine Learning (CSML) group at the Istituto Italiano di Tecnologia (Genoa, Italy).
 
-IT brings together researchers from France and Italy to explore the intersection of machine learning, dynamical systems, and physics-informed modeling.
+It brings together researchers from France and Italy to explore the intersection of machine learning, dynamical systems, and physics-informed modeling.
 
 The team aims to develop new mathematical and computational frameworks to learn and control self-organizing phenomena—complex processes through which matter spontaneously forms ordered patterns under laser excitation. These efforts address fundamental scientific questions while enabling practical advances in surface engineering, with potential applications spanning materials science, energy, health, and nanotechnology.
