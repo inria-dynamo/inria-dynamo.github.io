@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Conformal Online Learning of Deep Koopman Linear Embeddings* has been accepted to NeurIPS 2025!
+Our paper **Conformal Online Learning of Deep Koopman Linear Embeddings** has been accepted to NeurIPS 2025!
