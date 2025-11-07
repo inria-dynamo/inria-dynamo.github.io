@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-500-server-error",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
-          title: '500 Server Error <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
         section: "Posts",
         handler: () => {
           
@@ -59,6 +59,12 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-creation-of-the-inria-associate-team-dynamo",
           title: 'Creation of the Inria Associate Team DYNAMO.',
+          description: "",
+          section: "News",},{id: "news-we-will-be-at-the-eurips-2025-workshop-sysdiff-to-present-our-work-on-douglas-rachford-splitting-for-hybrid-differentiable-models",
+          title: 'We will be at the EurIPS 2025 workshop SysDiff to present our work...',
+          description: "",
+          section: "News",},{id: "news-our-paper-conformal-online-learning-of-deep-koopman-linear-embeddings-has-been-accepted-to-neurips-2025",
+          title: 'Our paper Conformal Online Learning of Deep Koopman Linear Embeddings has been accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
