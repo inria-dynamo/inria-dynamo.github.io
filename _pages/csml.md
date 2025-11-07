@@ -7,7 +7,7 @@ The <i>Computational Statistics and Machine Learning</i> (CSML) group conducts r
     <em>numerical computing, statistical learning theory, Markov transfer operators</em>
   </li>
   <li>
-    <a href="http://www0.cs.ucl.ac.uk/staff/m.pontil/">Massimiliano Pontil</a>, Senior Researcher (IIT, Italy), Professor (UCL, UK), Head of CSML.<br>
+    <a href="https://www.iit.it/it/web/guest/people-profile/-/people/massimiliano-pontil">Massimiliano Pontil</a>, Senior Researcher (IIT, Italy), Professor (UCL, UK), Head of CSML.<br>
     <em>statistical learning theory, neural operators, dynamical systems</em>
   </li>
   <li>
